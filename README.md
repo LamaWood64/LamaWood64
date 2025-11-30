@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning R language and SQL at university
 - 📫 How to reach me wiht email: anastasia.shadakh@gmail.com
 - ⚡ Fun fact: my pet is a giant snail (the flat is too small for a llama yet)
-- 🌎 Languages: English (B2), Russian (C2), German (A1)
+- 🌎 Languages: English (B2), Russian (C2), German (A2.2)
 
 
 ## :hammer_and_wrench: Languages and Tools :

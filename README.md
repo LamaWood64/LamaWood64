@@ -10,11 +10,12 @@
 </div>
 
 ## Here are some things about me:
-- 🔭 I have recently started working on a model that predicts the demand for various goods, taking into account seasonality
-- 🌱 I’m currently learning R language and SQL at university
-- 📫 How to reach me wiht email: anastasia.shadakh@gmail.com
-- ⚡ Fun fact: my pet is a giant snail (the flat is too small for a llama yet)
-- 🌎 Languages: English (B2), Russian (C2), German (A2.2)
+
+- 🔭 I am working on improvements to my MoodTracker app as a hobby
+- 🌱 Currently pursuing BA degree with a major in Machine Learning at Berlin university
+- ⚡ My strength: I am always eager to learn new things
+- 🌎 Languages: English (C1), Russian (C2), German (A2.2)
+- 📫 How to reach me: lamawood64@gmail.com
 
 
 ## :hammer_and_wrench: Languages and Tools :
@@ -39,3 +40,11 @@
 * FreeCad
 * PoweBI
 * AnyLogic
+
+## My top three projects:
+
+* Co-authored a machine learning research paper with a professor in the field of computer vision. Implemented and benchmarked YOLOv8, YOLOv9, and YOLOv11 models.
+
+* Developed a ready to publish personal iOS application "MoodTracker" for the App Store ecosystem, focused on fast and intuitive mood logging and behavioral pattern tracking.
+
+* Developed a full-stack application for Mercedes-Benz, including frontend and backend components, as part of a company project.

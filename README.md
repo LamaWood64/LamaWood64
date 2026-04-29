@@ -1,6 +1,6 @@
 <div id="header" align="center"> 
-<h1>Hey there, I'm Anastasia  👋</h1>
-<h3> I'm a Computer Science student passionate about coding, data analysis, and machine learning.</h3>
+<h1>Hey there, I'm Ana 👋</h1>
+<h3> I'm a Computer Science student passionate about Automation, Software Development, Machine Learning, and Data Analysis</h3>
 </div>
 
 <div id="badges" align="center">

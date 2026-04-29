@@ -41,7 +41,7 @@
 * PoweBI
 * AnyLogic
 
-## My top three projects:
+## My top three projects so far:
 
 * Co-authored a machine learning research paper with a professor in the field of computer vision. Implemented and benchmarked YOLOv8, YOLOv9, and YOLOv11 models.
 

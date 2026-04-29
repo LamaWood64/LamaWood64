@@ -42,3 +42,4 @@
 * Tableau
 * FreeCad
 * PoweBI
+* AnyLogic

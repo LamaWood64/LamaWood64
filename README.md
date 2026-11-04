@@ -1,6 +1,6 @@
 <div id="header" align="center"> 
 <h1>Hey there, I'm Ana 👋</h1>
-<h3> I'm a Computer Science student passionate about Automation, Software Development, Machine Learning, and Data Analysis</h3>
+<h3> I'm a Computer Scientist Python software engineer with 2 years of commercial experience in Software Development and Automation, and over 4 years of experience in coding and tooling </h3>
 </div>
 
 <div id="badges" align="center">

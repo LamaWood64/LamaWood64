@@ -11,16 +11,17 @@
 
 ## Here are some things about me:
 
-- 🔭 I am working on improvements to my MoodTracker app as a hobby
-- 🌱 Currently pursuing BA degree with a major in Machine Learning at Berlin university
+- 🔭 I am working on improvements to my MoodTracker app as a hobby - SWIFT, MAC OS, Xcode
+- 🌱 Finished my BA Degree in Computer Science with major of Machine Learning at British University in Berlin
 - ⚡ My strength: I am always eager to learn new things
-- 🌎 Languages: English (C1), Russian (C2), German (A2.2)
+- 🌎 Languages: English (C1), Russian (C2), German (B1.1)
 - 📫 How to reach me: lamawood64@gmail.com
 
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Spring" width="40" height="40"/>&nbsp;

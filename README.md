@@ -15,7 +15,7 @@
 - 🌱 Finished my BA Degree in Computer Science with major of Machine Learning at British University in Berlin
 - ⚡ My strength: I am always eager to learn new things
 - 🌎 Languages: English (C1), Russian (C2), German (B1.1)
-- 📫 How to reach me: lamawood64@gmail.com
+- 📫 How to reach me: Click on the LinkedIn link
 
 
 ## :hammer_and_wrench: Languages and Tools :
